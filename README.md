@@ -8,7 +8,7 @@ så trigger du et event som giver en vis chance for at du vinder noget
 Det er drag & drop du skal bare starte pp_progressbar og vrp_lottery
 det eneste du skal gøre er at lave et item
 
-["lottokupon"] = {"Lotto kupon", "Skrab dig til penge", nil , 0.2},
+``["lottokupon"] = {"Lotto kupon", "Skrab dig til penge", nil , 0.2},``
 
 # Config
 
