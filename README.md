@@ -15,5 +15,7 @@ det eneste du skal gøre er at lave et item
 Vis du gerne vil ændre prisenerne du vinder så gå ind i config og ændre det der fra
 så ændre den også teksten på hvad du vinder og ja prisen
 
-# Credits til mig - Pilely#5278
+# Credits til:
+Pilely#5278 for scriptet og redesigen af progressbar 
+Kazoon for selve progressbar scriptet
 
